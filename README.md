@@ -20,6 +20,12 @@ Egal, was andere Länder gestatten, in Deutschland sind wir immer an das Urheber
 
 **Schlussendlich**: Der Repo-Ersteller ist für die Überwachung innerhalb seines Repos verantwortlich und _jeder Autor ist für seine eingecheckten Inhalte verantwortlich_.
 
+## Beispiel: D&D5
+
+Wizards legt die Regeln für Fan-Inhalte deutlich dar: https://company.wizards.com/de/fancontentpolicy
+
+Bezüglich der Open Game License siehe auch https://dnd.wizards.com/articles/features/systems-reference-document-srd
+
 ## Logo dieser Organisation
 
 Der W20 stammt von Lonnie Tapscott, US.
