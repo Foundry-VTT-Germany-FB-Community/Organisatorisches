@@ -20,11 +20,19 @@ Egal, was andere Länder gestatten, in Deutschland sind wir immer an das Urheber
 
 **Schlussendlich**: Der Repo-Ersteller ist für die Überwachung innerhalb seines Repos verantwortlich und _jeder Autor ist für seine eingecheckten Inhalte verantwortlich_.
 
-## Beispiel: D&D5
+### Beispiel: D&D5
 
 Wizards legt die Regeln für Fan-Inhalte deutlich dar: https://company.wizards.com/de/fancontentpolicy
 
 Bezüglich der Open Game License siehe auch https://dnd.wizards.com/articles/features/systems-reference-document-srd
+
+## Makros
+
+Im Repo "Makros" könnt ihr eure Makros mit uns und der Welt teilen: https://github.com/Foundry-VTT-Germany-FB-Community/Makros
+
+Wichtig:
+- Fügt am Anfang des Makros einen Kommentar hinzu, der euch als Autor ausweist - so haben es Wiederverwender einfacher, die Lizenz einzuhalten.
+- Solltet ihr ein fremdes Makro wiederverwenden, haltet euch an die Lizenz bzw. stellt sicher, dass ihr das dürft, und gebt die Lizenz an, unter der ihr dieses wiederverwenden und teilen dürft.
 
 ## Logo dieser Organisation
 
@@ -44,6 +52,5 @@ A permissive license whose main conditions require preservation of copyright and
 | Commercial use | License and copyright notice | Liability     |
 | Distribution   | State changes                | Trademark use |
 | Modification   |                              | Warranty      |
-
-|Patent use
-|Private use
+| Patent use     |                              |               |
+| Private use    |                              |               |
